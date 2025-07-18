@@ -1,7 +1,7 @@
 import time
 import json
 import processar_eventos
-from processar_eventos import processar_eventos
+import extract
 from processar_eventos import processar_eventos
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service

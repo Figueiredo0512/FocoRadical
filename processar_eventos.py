@@ -64,6 +64,14 @@ def processar_eventos(html):
     with open('eventos_foco.json', 'w', encoding='utf-8') as f:
         json.dump(events, f, indent=2, ensure_ascii=False)
 
+            # Aqui dispara o envio de mensagem
+    import subprocess
+    try:
+        subprocess.run(["python3", "mensagem.py"], check=True)
+        print("mensagem.py executado com sucesso!")
+    except subprocess.CalledProcessError as e:
+        print(f"Erro ao executar mensagem.py: {e}")
+
     print(f'Processados {len(events)} eventos com sucesso!')
 
 if __name__ == "__main__":
