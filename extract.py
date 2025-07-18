@@ -9,12 +9,17 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
+from selenium.webdriver.chrome.options import Options
+import tempfile
+chrome_options = Options()
+chrome_options.add_argument(f"--user-data-dir={tempfile.mkdtemp()}")
+
 
 # 1. Configurar o navegador (pode usar Chrome ou Firefox)
 options = webdriver.ChromeOptions()
 options.add_argument('--headless')
 service = Service(ChromeDriverManager().install())
-driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
 try:
     # 2. Acessar página de login
     driver.get('https://www.focomarket.com.br')

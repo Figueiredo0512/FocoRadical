@@ -59,11 +59,12 @@ def processar_eventos(html):
         writer = csv.DictWriter(f, fieldnames=events[0].keys())
         writer.writeheader()
         writer.writerows(events)
+        print("Criado arquivo .CSV!")
 
     # Salva como JSON
     with open('eventos_foco.json', 'w', encoding='utf-8') as f:
         json.dump(events, f, indent=2, ensure_ascii=False)
-
+        print("Criado arquivo .json!")
             # Aqui dispara o envio de mensagem
     import subprocess
     try:
@@ -77,4 +78,4 @@ def processar_eventos(html):
 if __name__ == "__main__":
     with open('pagina_capturada.html', encoding='utf-8') as f:
         html = f.read()
-    processar_eventos(html)
+    

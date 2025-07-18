@@ -15,7 +15,7 @@
     "estado": "",
     "data": "19/07/25",
     "oficial": true,
-    "fotografos": 14
+    "fotografos": 15
   },
   {
     "nome": "5ª EDIÇÃO GUARA TRAIL RUN",
@@ -60,7 +60,7 @@
     "estado": "",
     "data": "19/07/25",
     "oficial": false,
-    "fotografos": 1
+    "fotografos": 2
   },
   {
     "nome": "CORRIDA PEDESTRE DE CÂNDIDO MOTA - 5K",
@@ -78,7 +78,7 @@
     "estado": "",
     "data": "19/07/25",
     "oficial": true,
-    "fotografos": 12
+    "fotografos": 11
   },
   {
     "nome": "CORRIDA E CAMINHADA MULHER DETERMINADA - ETAPA LUA",
@@ -87,7 +87,7 @@
     "estado": "",
     "data": "19/07/25",
     "oficial": false,
-    "fotografos": 11
+    "fotografos": 16
   },
   {
     "nome": "3ª AURORA TRAIL RUN 2025",
@@ -96,7 +96,16 @@
     "estado": "",
     "data": "19/07/25",
     "oficial": true,
-    "fotografos": 3
+    "fotografos": 4
+  },
+  {
+    "nome": "DESC PFB ETAPA 4",
+    "categoria": "MTB",
+    "cidade": "",
+    "estado": "",
+    "data": "19/07/25",
+    "oficial": true,
+    "fotografos": 1
   },
   {
     "nome": "SANTANDER TRACK&FIELD RUN SERIES SHOPPING ELDORADO",
@@ -105,7 +114,7 @@
     "estado": "",
     "data": "20/07/25",
     "oficial": false,
-    "fotografos": 31
+    "fotografos": 35
   },
   {
     "nome": "1ª CORRIDA BURITI",
@@ -114,7 +123,7 @@
     "estado": "",
     "data": "20/07/25",
     "oficial": true,
-    "fotografos": 21
+    "fotografos": 22
   },
   {
     "nome": "5ª CORRIDA CONTRA O CÂNCER",
@@ -123,7 +132,7 @@
     "estado": "",
     "data": "20/07/25",
     "oficial": false,
-    "fotografos": 3
+    "fotografos": 2
   },
   {
     "nome": "5ª MARATONA EPITÁCIO",
@@ -141,7 +150,7 @@
     "estado": "",
     "data": "20/07/25",
     "oficial": false,
-    "fotografos": 12
+    "fotografos": 16
   },
   {
     "nome": "ARTS RUN 2025",
@@ -168,7 +177,7 @@
     "estado": "",
     "data": "20/07/25",
     "oficial": true,
-    "fotografos": 11
+    "fotografos": 10
   },
   {
     "nome": "1ª CORRIDA BIZUNGÃO - ILHA VERDE",
@@ -249,16 +258,7 @@
     "estado": "",
     "data": "20/07/25",
     "oficial": false,
-    "fotografos": 27
-  },
-  {
-    "nome": "CORRIDA RÚSTICA DO MORANGO",
-    "categoria": "Cross Country",
-    "cidade": "",
-    "estado": "",
-    "data": "20/07/25",
-    "oficial": false,
-    "fotografos": 3
+    "fotografos": 30
   },
   {
     "nome": "CIRCUITO JOSEENSE DE CORRIDAS DE RUA",
@@ -267,7 +267,7 @@
     "estado": "",
     "data": "20/07/25",
     "oficial": false,
-    "fotografos": 3
+    "fotografos": 6
   },
   {
     "nome": "CORRIDA FUTRUN 2025 ETAPA FASTPACE",
@@ -276,6 +276,15 @@
     "estado": "",
     "data": "20/07/25",
     "oficial": false,
+    "fotografos": 0
+  },
+  {
+    "nome": "DESC PFB ETAPA 4",
+    "categoria": "MTB",
+    "cidade": "",
+    "estado": "",
+    "data": "20/07/25",
+    "oficial": true,
     "fotografos": 0
   },
   {
@@ -330,7 +339,7 @@
     "estado": "",
     "data": "26/07/25",
     "oficial": false,
-    "fotografos": 11
+    "fotografos": 14
   },
   {
     "nome": "SP CITY MARATHON 2025",
@@ -339,7 +348,7 @@
     "estado": "",
     "data": "27/07/25",
     "oficial": false,
-    "fotografos": 62
+    "fotografos": 67
   },
   {
     "nome": "MEIA MARATONA INTERNACIONAL DE GUARULHOS",
@@ -348,7 +357,7 @@
     "estado": "",
     "data": "27/07/25",
     "oficial": false,
-    "fotografos": 14
+    "fotografos": 13
   },
   {
     "nome": "SANTANDER TRACK&FIELD RUN SERIES PLAZA SUL - JARDIM BOTÂNICO",
@@ -357,7 +366,7 @@
     "estado": "",
     "data": "27/07/25",
     "oficial": false,
-    "fotografos": 4
+    "fotografos": 5
   },
   {
     "nome": "CIRCUITO CONTINENTE - 4ª ETAPA ÁSIA",
@@ -393,7 +402,7 @@
     "estado": "",
     "data": "27/07/25",
     "oficial": true,
-    "fotografos": 27
+    "fotografos": 28
   },
   {
     "nome": "5º PASSEIO BIKE AND BEACH",
@@ -420,7 +429,7 @@
     "estado": "",
     "data": "27/07/25",
     "oficial": true,
-    "fotografos": 26
+    "fotografos": 27
   },
   {
     "nome": "3 CORRIDA BATATEC",
@@ -438,15 +447,6 @@
     "estado": "",
     "data": "27/07/25",
     "oficial": true,
-    "fotografos": 2
-  },
-  {
-    "nome": "CORRIDA PARA ELAS",
-    "categoria": "Corrida de Rua",
-    "cidade": "",
-    "estado": "",
-    "data": "27/07/25",
-    "oficial": false,
     "fotografos": 2
   }
 ]
