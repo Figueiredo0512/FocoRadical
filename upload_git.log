@@ -3,3 +3,11 @@ fatal: Could not read from remote repository.
 
 Please make sure you have the correct access rights
 and the repository exists.
+[main a049676] Atualização automática: 2025-07-18 00:30:02
+ 2 files changed, 5 insertions(+), 40 deletions(-)
+ create mode 100644 upload_git.log
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
