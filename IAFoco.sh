@@ -8,4 +8,4 @@ cd /home/figas/Desktop/FocoRadical
 source venv/bin/activate
 pip install selenium webdriver-manager
 # Executa o script Python
-python3 extract.py
+/usr/bin/python3 /home/figas/Desktop/FocoRadical/extract.py

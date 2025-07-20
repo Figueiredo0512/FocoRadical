@@ -1,120 +1,12 @@
 [
   {
-    "nome": "TREINOS DOM QUIXOTE - 18/07",
-    "categoria": "Treinos",
-    "cidade": "",
-    "estado": "",
-    "data": "18/07/25",
-    "oficial": false,
-    "fotografos": 1
-  },
-  {
-    "nome": "7ª NIGHT RUN DAS ÁGUAS",
-    "categoria": "Corrida de Rua",
-    "cidade": "",
-    "estado": "",
-    "data": "19/07/25",
-    "oficial": true,
-    "fotografos": 15
-  },
-  {
-    "nome": "5ª EDIÇÃO GUARA TRAIL RUN",
-    "categoria": "Trail Run",
-    "cidade": "",
-    "estado": "",
-    "data": "19/07/25",
-    "oficial": true,
-    "fotografos": 13
-  },
-  {
-    "nome": "SOMOS TÃO JOVENS RUN",
-    "categoria": "Corrida de Rua",
-    "cidade": "",
-    "estado": "",
-    "data": "19/07/25",
-    "oficial": true,
-    "fotografos": 15
-  },
-  {
-    "nome": "MS TRAIL RUN",
-    "categoria": "Trail Run",
-    "cidade": "",
-    "estado": "",
-    "data": "19/07/25",
-    "oficial": true,
-    "fotografos": 4
-  },
-  {
-    "nome": "DESAFIO LPTR - MORRO DO CAMELO",
-    "categoria": "Corrida de Rua",
-    "cidade": "",
-    "estado": "",
-    "data": "19/07/25",
-    "oficial": false,
-    "fotografos": 0
-  },
-  {
-    "nome": "ADRENA RUN - MASSAGUAÇU",
-    "categoria": "Corrida de Rua",
-    "cidade": "",
-    "estado": "",
-    "data": "19/07/25",
-    "oficial": false,
-    "fotografos": 2
-  },
-  {
-    "nome": "CORRIDA PEDESTRE DE CÂNDIDO MOTA - 5K",
-    "categoria": "Corrida de Rua",
-    "cidade": "",
-    "estado": "",
-    "data": "19/07/25",
-    "oficial": false,
-    "fotografos": 0
-  },
-  {
-    "nome": "2° GP FBR ROAD - ETAPA 3",
-    "categoria": "Ciclismo",
-    "cidade": "",
-    "estado": "",
-    "data": "19/07/25",
-    "oficial": true,
-    "fotografos": 11
-  },
-  {
-    "nome": "CORRIDA E CAMINHADA MULHER DETERMINADA - ETAPA LUA",
-    "categoria": "Corrida de Rua",
-    "cidade": "",
-    "estado": "",
-    "data": "19/07/25",
-    "oficial": false,
-    "fotografos": 16
-  },
-  {
-    "nome": "3ª AURORA TRAIL RUN 2025",
-    "categoria": "Trail Run",
-    "cidade": "",
-    "estado": "",
-    "data": "19/07/25",
-    "oficial": true,
-    "fotografos": 4
-  },
-  {
-    "nome": "DESC PFB ETAPA 4",
-    "categoria": "MTB",
-    "cidade": "",
-    "estado": "",
-    "data": "19/07/25",
-    "oficial": true,
-    "fotografos": 1
-  },
-  {
     "nome": "SANTANDER TRACK&FIELD RUN SERIES SHOPPING ELDORADO",
     "categoria": "Corrida de Rua",
     "cidade": "",
     "estado": "",
     "data": "20/07/25",
     "oficial": false,
-    "fotografos": 35
+    "fotografos": 32
   },
   {
     "nome": "1ª CORRIDA BURITI",
@@ -150,7 +42,7 @@
     "estado": "",
     "data": "20/07/25",
     "oficial": false,
-    "fotografos": 16
+    "fotografos": 21
   },
   {
     "nome": "ARTS RUN 2025",
@@ -195,7 +87,7 @@
     "estado": "",
     "data": "20/07/25",
     "oficial": false,
-    "fotografos": 2
+    "fotografos": 1
   },
   {
     "nome": "CORRIDA REDE BOM LUGAR",
@@ -222,7 +114,7 @@
     "estado": "",
     "data": "20/07/25",
     "oficial": true,
-    "fotografos": 10
+    "fotografos": 9
   },
   {
     "nome": "FOREST RUN SANTOS",
@@ -231,7 +123,7 @@
     "estado": "",
     "data": "20/07/25",
     "oficial": false,
-    "fotografos": 8
+    "fotografos": 5
   },
   {
     "nome": "2ª CORRIDA E CAMINHADA SÃO CRISTÓVÃO",
@@ -258,7 +150,7 @@
     "estado": "",
     "data": "20/07/25",
     "oficial": false,
-    "fotografos": 30
+    "fotografos": 29
   },
   {
     "nome": "CIRCUITO JOSEENSE DE CORRIDAS DE RUA",
@@ -267,7 +159,7 @@
     "estado": "",
     "data": "20/07/25",
     "oficial": false,
-    "fotografos": 6
+    "fotografos": 4
   },
   {
     "nome": "CORRIDA FUTRUN 2025 ETAPA FASTPACE",
@@ -288,6 +180,69 @@
     "fotografos": 0
   },
   {
+    "nome": "TREINOS MÁRIO COVAS 20/07",
+    "categoria": "Treinos",
+    "cidade": "",
+    "estado": "",
+    "data": "20/07/25",
+    "oficial": false,
+    "fotografos": 3
+  },
+  {
+    "nome": "TREINO CICLISMO E CORRIDA EM PARANAPIACABA",
+    "categoria": "Treinos",
+    "cidade": "",
+    "estado": "",
+    "data": "20/07/25",
+    "oficial": false,
+    "fotografos": 1
+  },
+  {
+    "nome": "TREINOS MARGINAL DOM AGUIRRE 20/07",
+    "categoria": "Treinos",
+    "cidade": "",
+    "estado": "",
+    "data": "20/07/25",
+    "oficial": false,
+    "fotografos": 1
+  },
+  {
+    "nome": "TREINÃO GETULIO / BAURU-SP",
+    "categoria": "Treinos",
+    "cidade": "",
+    "estado": "",
+    "data": "20/07/25",
+    "oficial": false,
+    "fotografos": 1
+  },
+  {
+    "nome": "RIDERE UNDERGROUND",
+    "categoria": "Treinamento Funcional",
+    "cidade": "",
+    "estado": "",
+    "data": "20/07/25",
+    "oficial": false,
+    "fotografos": 1
+  },
+  {
+    "nome": "67º JOGOS REGIONAIS - VOLEI MASCULINO - OSCAR BRESSANE X MARÍLIA",
+    "categoria": "Vôlei",
+    "cidade": "",
+    "estado": "",
+    "data": "20/07/25",
+    "oficial": false,
+    "fotografos": 2
+  },
+  {
+    "nome": "67º JOGOS REGIONAIS - VOLEI MASCULINO - PACAEMBU X MARACAÍ",
+    "categoria": "Vôlei",
+    "cidade": "",
+    "estado": "",
+    "data": "20/07/25",
+    "oficial": false,
+    "fotografos": 2
+  },
+  {
     "nome": "FLASHBACK NIGHT RUN 2025",
     "categoria": "Corrida de Rua",
     "cidade": "",
@@ -303,7 +258,7 @@
     "estado": "",
     "data": "26/07/25",
     "oficial": false,
-    "fotografos": 11
+    "fotografos": 12
   },
   {
     "nome": "CIRCUITO BURIQUIOCA DE CORRIDA 2ª ETAPA BY NIGHT",
@@ -330,7 +285,7 @@
     "estado": "",
     "data": "26/07/25",
     "oficial": true,
-    "fotografos": 12
+    "fotografos": 13
   },
   {
     "nome": "CORRENDO COM SEU PRÓXIMO EX",
@@ -339,7 +294,7 @@
     "estado": "",
     "data": "26/07/25",
     "oficial": false,
-    "fotografos": 14
+    "fotografos": 13
   },
   {
     "nome": "SP CITY MARATHON 2025",
@@ -348,7 +303,7 @@
     "estado": "",
     "data": "27/07/25",
     "oficial": false,
-    "fotografos": 67
+    "fotografos": 72
   },
   {
     "nome": "MEIA MARATONA INTERNACIONAL DE GUARULHOS",
@@ -366,7 +321,7 @@
     "estado": "",
     "data": "27/07/25",
     "oficial": false,
-    "fotografos": 5
+    "fotografos": 4
   },
   {
     "nome": "CIRCUITO CONTINENTE - 4ª ETAPA ÁSIA",
@@ -384,7 +339,7 @@
     "estado": "",
     "data": "27/07/25",
     "oficial": true,
-    "fotografos": 7
+    "fotografos": 8
   },
   {
     "nome": "CIRCUITO CIDADES PAULISTAS - SÃO CARLOS",
@@ -402,7 +357,7 @@
     "estado": "",
     "data": "27/07/25",
     "oficial": true,
-    "fotografos": 28
+    "fotografos": 29
   },
   {
     "nome": "5º PASSEIO BIKE AND BEACH",
@@ -429,7 +384,7 @@
     "estado": "",
     "data": "27/07/25",
     "oficial": true,
-    "fotografos": 27
+    "fotografos": 31
   },
   {
     "nome": "3 CORRIDA BATATEC",
@@ -447,6 +402,51 @@
     "estado": "",
     "data": "27/07/25",
     "oficial": true,
+    "fotografos": 2
+  },
+  {
+    "nome": "CORRIDA PARA ELAS",
+    "categoria": "Corrida de Rua",
+    "cidade": "",
+    "estado": "",
+    "data": "27/07/25",
+    "oficial": false,
+    "fotografos": 2
+  },
+  {
+    "nome": "MEIA MARATONA RÚSTICA MAXIRUN",
+    "categoria": "Trail Run",
+    "cidade": "",
+    "estado": "",
+    "data": "27/07/25",
+    "oficial": true,
+    "fotografos": 19
+  },
+  {
+    "nome": "CORRIDA AUTISMO RUN",
+    "categoria": "Corrida de Rua",
+    "cidade": "",
+    "estado": "",
+    "data": "27/07/25",
+    "oficial": false,
+    "fotografos": 0
+  },
+  {
+    "nome": "CIRCUITO IFOOD DE CORRIDA ADAMANTINA",
+    "categoria": "Corrida de Rua",
+    "cidade": "",
+    "estado": "",
+    "data": "27/07/25",
+    "oficial": true,
+    "fotografos": 0
+  },
+  {
+    "nome": "INCOMISA RUN",
+    "categoria": "Corrida de Rua",
+    "cidade": "",
+    "estado": "",
+    "data": "27/07/25",
+    "oficial": false,
     "fotografos": 2
   }
 ]
