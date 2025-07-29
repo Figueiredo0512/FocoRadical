@@ -622,3 +622,42 @@ Stacktrace:
 #17 0x7eb757a9caa4 <unknown>
 #18 0x7eb757b29c3c <unknown>
 
+Traceback (most recent call last):
+  File "/home/vboxuser/Desktop/FocoRadical/extract.py", line 19, in <module>
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/chrome/webdriver.py", line 47, in __init__
+    super().__init__(
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/chromium/webdriver.py", line 69, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 261, in __init__
+    self.start_session(capabilities)
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 362, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 454, in execute
+    self.error_handler.check_response(response)
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x61ddfaef887a <unknown>
+#1 0x61ddfa99d2e0 <unknown>
+#2 0x61ddfa9d77bd <unknown>
+#3 0x61ddfa9d2ad7 <unknown>
+#4 0x61ddfaa22e9e <unknown>
+#5 0x61ddfaa22466 <unknown>
+#6 0x61ddfaa14683 <unknown>
+#7 0x61ddfa9e0b5b <unknown>
+#8 0x61ddfa9e1f31 <unknown>
+#9 0x61ddfaebd7cb <unknown>
+#10 0x61ddfaec15d4 <unknown>
+#11 0x61ddfaea42c9 <unknown>
+#12 0x61ddfaec2178 <unknown>
+#13 0x61ddfae886bf <unknown>
+#14 0x61ddfaee5e78 <unknown>
+#15 0x61ddfaee6056 <unknown>
+#16 0x61ddfaef7b96 <unknown>
+#17 0x75f42729caa4 <unknown>
+#18 0x75f427329c3c <unknown>
+
