@@ -1,11 +1,19 @@
 #!/bin/bash
-# Ativa o ambiente virtual e roda o extract.py
-pkill chrome
-pkill chromedriver
-# Caminho até a pasta do projeto
+export PATH=/usr/local/bin:/usr/bin:/bin
+export HOME=/home/vboxuser
+export DISPLAY=:0
+
+# Mate possíveis instâncias abertas
+pkill -f chrome
+pkill -f chromedriver
+
+# Vá para a pasta do projeto
 cd /home/vboxuser/Desktop/FocoRadical
-# Ativa o venv
+
+# Ativa o virtualenv
 source venv/bin/activate
-pip install selenium webdriver-manager
-# Executa o script Python
-/usr/bin/python3 /home/vboxuser/Desktop/FocoRadical/extract.py
+
+# NÃO usar pip install aqui — já instalamos antes
+# Apenas roda o script
+python3 extract.py
+
