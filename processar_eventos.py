@@ -16,11 +16,17 @@ def processar_eventos(html):
         except AttributeError:
             category = ''
         try:
-            city_state = card.select_one('.icon-text-card .fa-map-marker-alt').find_all('span')
-            city = city_state[0].get_text(strip=True) if city_state else ''
-            state = city_state[1].get_text(strip=True) if len(city_state) > 1 else ''
+            icon = card.find('i', class_='fa-map-marker-alt')
+            if icon:
+                loc_block = icon.find_parent('div', class_='icon-text-card')
+                city = loc_block.select_one('.event-city-fc').get_text(strip=True)
         except AttributeError:
-            city, state = '', ''
+            city = ''
+
+        try:
+            state = card.select_one('.event-state-fc').get_text(strip=True)
+        except AttributeError:
+            state = ''
         try:
             date = card.select_one('.right-card-column .icon-text-card:last-of-type .event-text-fc').get_text(strip=True)
         except AttributeError:
