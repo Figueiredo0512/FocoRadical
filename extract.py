@@ -29,9 +29,9 @@ try:
     password.send_keys('@Tangerina23')
     password.send_keys(Keys.RETURN)
 
-    time.sleep(2)
+    time.sleep(5)
 
-    driver.get('https://www.focomarket.com.br/competition/future')
+    driver.get("https://www.focomarket.com.br/competition/future?CompetitionSearch%5Bname%5D=&CompetitionSearch%5Bdate%5D=08%2F2025&CompetitionSearch%5Bstate_id%5D=25&CompetitionSearch%5Bname%5D=&CompetitionSearch%5Bdate%5D=08%2F2025&CompetitionSearch%5Bstate_id%5D=25")
     time.sleep(1)
 
     html = driver.page_source
