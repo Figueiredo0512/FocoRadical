@@ -349,3 +349,276 @@ Stacktrace:
 #17 0x790b1169caa4 <unknown>
 #18 0x790b11729c3c <unknown>
 
+Traceback (most recent call last):
+  File "/home/vboxuser/Desktop/FocoRadical/extract.py", line 19, in <module>
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/chrome/webdriver.py", line 47, in __init__
+    super().__init__(
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/chromium/webdriver.py", line 69, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 261, in __init__
+    self.start_session(capabilities)
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 362, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 454, in execute
+    self.error_handler.check_response(response)
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x5b0003ce487a <unknown>
+#1 0x5b00037892e0 <unknown>
+#2 0x5b00037c37bd <unknown>
+#3 0x5b00037bead7 <unknown>
+#4 0x5b000380ee9e <unknown>
+#5 0x5b000380e466 <unknown>
+#6 0x5b0003800683 <unknown>
+#7 0x5b00037ccb5b <unknown>
+#8 0x5b00037cdf31 <unknown>
+#9 0x5b0003ca97cb <unknown>
+#10 0x5b0003cad5d4 <unknown>
+#11 0x5b0003c902c9 <unknown>
+#12 0x5b0003cae178 <unknown>
+#13 0x5b0003c746bf <unknown>
+#14 0x5b0003cd1e78 <unknown>
+#15 0x5b0003cd2056 <unknown>
+#16 0x5b0003ce3b96 <unknown>
+#17 0x794860e9caa4 <unknown>
+#18 0x794860f29c3c <unknown>
+
+Traceback (most recent call last):
+  File "/home/vboxuser/Desktop/FocoRadical/extract.py", line 19, in <module>
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/chrome/webdriver.py", line 47, in __init__
+    super().__init__(
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/chromium/webdriver.py", line 69, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 261, in __init__
+    self.start_session(capabilities)
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 362, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 454, in execute
+    self.error_handler.check_response(response)
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x59a12190e87a <unknown>
+#1 0x59a1213b32e0 <unknown>
+#2 0x59a1213ed7bd <unknown>
+#3 0x59a1213e8ad7 <unknown>
+#4 0x59a121438e9e <unknown>
+#5 0x59a121438466 <unknown>
+#6 0x59a12142a683 <unknown>
+#7 0x59a1213f6b5b <unknown>
+#8 0x59a1213f7f31 <unknown>
+#9 0x59a1218d37cb <unknown>
+#10 0x59a1218d75d4 <unknown>
+#11 0x59a1218ba2c9 <unknown>
+#12 0x59a1218d8178 <unknown>
+#13 0x59a12189e6bf <unknown>
+#14 0x59a1218fbe78 <unknown>
+#15 0x59a1218fc056 <unknown>
+#16 0x59a12190db96 <unknown>
+#17 0x729a9089caa4 <unknown>
+#18 0x729a90929c3c <unknown>
+
+Traceback (most recent call last):
+  File "/home/vboxuser/Desktop/FocoRadical/extract.py", line 19, in <module>
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/chrome/webdriver.py", line 47, in __init__
+    super().__init__(
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/chromium/webdriver.py", line 69, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 261, in __init__
+    self.start_session(capabilities)
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 362, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 454, in execute
+    self.error_handler.check_response(response)
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x55986839687a <unknown>
+#1 0x559867e3b2e0 <unknown>
+#2 0x559867e757bd <unknown>
+#3 0x559867e70ad7 <unknown>
+#4 0x559867ec0e9e <unknown>
+#5 0x559867ec0466 <unknown>
+#6 0x559867eb2683 <unknown>
+#7 0x559867e7eb5b <unknown>
+#8 0x559867e7ff31 <unknown>
+#9 0x55986835b7cb <unknown>
+#10 0x55986835f5d4 <unknown>
+#11 0x5598683422c9 <unknown>
+#12 0x559868360178 <unknown>
+#13 0x5598683266bf <unknown>
+#14 0x559868383e78 <unknown>
+#15 0x559868384056 <unknown>
+#16 0x559868395b96 <unknown>
+#17 0x7c0bc9a9caa4 <unknown>
+#18 0x7c0bc9b29c3c <unknown>
+
+Traceback (most recent call last):
+  File "/home/vboxuser/Desktop/FocoRadical/extract.py", line 19, in <module>
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/chrome/webdriver.py", line 47, in __init__
+    super().__init__(
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/chromium/webdriver.py", line 69, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 261, in __init__
+    self.start_session(capabilities)
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 362, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 454, in execute
+    self.error_handler.check_response(response)
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x5c079b52387a <unknown>
+#1 0x5c079afc82e0 <unknown>
+#2 0x5c079b0027bd <unknown>
+#3 0x5c079affdad7 <unknown>
+#4 0x5c079b04de9e <unknown>
+#5 0x5c079b04d466 <unknown>
+#6 0x5c079b03f683 <unknown>
+#7 0x5c079b00bb5b <unknown>
+#8 0x5c079b00cf31 <unknown>
+#9 0x5c079b4e87cb <unknown>
+#10 0x5c079b4ec5d4 <unknown>
+#11 0x5c079b4cf2c9 <unknown>
+#12 0x5c079b4ed178 <unknown>
+#13 0x5c079b4b36bf <unknown>
+#14 0x5c079b510e78 <unknown>
+#15 0x5c079b511056 <unknown>
+#16 0x5c079b522b96 <unknown>
+#17 0x70ab5549caa4 <unknown>
+#18 0x70ab55529c3c <unknown>
+
+Traceback (most recent call last):
+  File "/home/vboxuser/Desktop/FocoRadical/extract.py", line 19, in <module>
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/chrome/webdriver.py", line 47, in __init__
+    super().__init__(
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/chromium/webdriver.py", line 69, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 261, in __init__
+    self.start_session(capabilities)
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 362, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 454, in execute
+    self.error_handler.check_response(response)
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x59cc3bb1287a <unknown>
+#1 0x59cc3b5b72e0 <unknown>
+#2 0x59cc3b5f17bd <unknown>
+#3 0x59cc3b5ecad7 <unknown>
+#4 0x59cc3b63ce9e <unknown>
+#5 0x59cc3b63c466 <unknown>
+#6 0x59cc3b62e683 <unknown>
+#7 0x59cc3b5fab5b <unknown>
+#8 0x59cc3b5fbf31 <unknown>
+#9 0x59cc3bad77cb <unknown>
+#10 0x59cc3badb5d4 <unknown>
+#11 0x59cc3babe2c9 <unknown>
+#12 0x59cc3badc178 <unknown>
+#13 0x59cc3baa26bf <unknown>
+#14 0x59cc3baffe78 <unknown>
+#15 0x59cc3bb00056 <unknown>
+#16 0x59cc3bb11b96 <unknown>
+#17 0x7773e9a9caa4 <unknown>
+#18 0x7773e9b29c3c <unknown>
+
+Traceback (most recent call last):
+  File "/home/vboxuser/Desktop/FocoRadical/extract.py", line 19, in <module>
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/chrome/webdriver.py", line 47, in __init__
+    super().__init__(
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/chromium/webdriver.py", line 69, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 261, in __init__
+    self.start_session(capabilities)
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 362, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 454, in execute
+    self.error_handler.check_response(response)
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x65085a15e87a <unknown>
+#1 0x650859c032e0 <unknown>
+#2 0x650859c3d7bd <unknown>
+#3 0x650859c38ad7 <unknown>
+#4 0x650859c88e9e <unknown>
+#5 0x650859c88466 <unknown>
+#6 0x650859c7a683 <unknown>
+#7 0x650859c46b5b <unknown>
+#8 0x650859c47f31 <unknown>
+#9 0x65085a1237cb <unknown>
+#10 0x65085a1275d4 <unknown>
+#11 0x65085a10a2c9 <unknown>
+#12 0x65085a128178 <unknown>
+#13 0x65085a0ee6bf <unknown>
+#14 0x65085a14be78 <unknown>
+#15 0x65085a14c056 <unknown>
+#16 0x65085a15db96 <unknown>
+#17 0x756f7009caa4 <unknown>
+#18 0x756f70129c3c <unknown>
+
+Traceback (most recent call last):
+  File "/home/vboxuser/Desktop/FocoRadical/extract.py", line 19, in <module>
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/chrome/webdriver.py", line 47, in __init__
+    super().__init__(
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/chromium/webdriver.py", line 69, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 261, in __init__
+    self.start_session(capabilities)
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 362, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 454, in execute
+    self.error_handler.check_response(response)
+  File "/home/vboxuser/Desktop/FocoRadical/venv/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+#0 0x6126a8f2387a <unknown>
+#1 0x6126a89c82e0 <unknown>
+#2 0x6126a8a027bd <unknown>
+#3 0x6126a89fdad7 <unknown>
+#4 0x6126a8a4de9e <unknown>
+#5 0x6126a8a4d466 <unknown>
+#6 0x6126a8a3f683 <unknown>
+#7 0x6126a8a0bb5b <unknown>
+#8 0x6126a8a0cf31 <unknown>
+#9 0x6126a8ee87cb <unknown>
+#10 0x6126a8eec5d4 <unknown>
+#11 0x6126a8ecf2c9 <unknown>
+#12 0x6126a8eed178 <unknown>
+#13 0x6126a8eb36bf <unknown>
+#14 0x6126a8f10e78 <unknown>
+#15 0x6126a8f11056 <unknown>
+#16 0x6126a8f22b96 <unknown>
+#17 0x7eb757a9caa4 <unknown>
+#18 0x7eb757b29c3c <unknown>
+
