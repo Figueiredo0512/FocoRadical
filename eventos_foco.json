@@ -11,7 +11,7 @@
   },
   {
     "nome": "SANTANDER TRACK&FIELD RUN SERIES JK 2",
-    "categoria": "Corrida de Rua ",
+    "categoria": "Corrida de Rua",
     "cidade": "São Paulo",
     "estado": "/ SP",
     "data": "03/08/25",
@@ -26,7 +26,7 @@
     "estado": "/ SP",
     "data": "03/08/25",
     "oficial": false,
-    "fotografos": 4,
+    "fotografos": 3,
     "link": "https://www.santos.sp.gov.br/"
   },
   {
@@ -196,7 +196,7 @@
     "estado": "/ SP",
     "data": "03/08/25",
     "oficial": true,
-    "fotografos": 11,
+    "fotografos": 10,
     "link": "https://sportsp.com.br/2025/03/17/circuito-sportsp-runner-2025/"
   },
   {
