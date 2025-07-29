@@ -1,7 +1,7 @@
 #!/bin/bash
 # Caminho do repositório
 
-cd /home/figas/Desktop/FocoRadical || exit
+cd /home/vboxuser/Desktop/FocoRadical || exit
 
 # Atualiza repositório local
 git pull origin main
