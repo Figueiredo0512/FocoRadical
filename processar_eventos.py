@@ -22,11 +22,14 @@ def processar_eventos(html):
                 city = loc_block.select_one('.event-city-fc').get_text(strip=True)
         except AttributeError:
             city = ''
-
         try:
             state = card.select_one('.event-state-fc').get_text(strip=True)
         except AttributeError:
             state = ''
+        try:
+            externallink = card.select_one('a.schedule-external-link')['href']
+        except (AttributeError, TypeError):
+            externallink = ''
         try:
             date = card.select_one('.right-card-column .icon-text-card:last-of-type .event-text-fc').get_text(strip=True)
         except AttributeError:
@@ -53,7 +56,8 @@ def processar_eventos(html):
             'estado': state,
             'data': date,
             'oficial': oficial,
-            'fotografos': photographers
+            'fotografos': photographers,
+            'link' : externallink
         })
 
     if not events:
