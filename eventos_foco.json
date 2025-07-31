@@ -6,8 +6,28 @@
     "estado": "/ SP",
     "data": "02/08/25",
     "oficial": false,
-    "fotografos": 3,
+    "fotografos": 2,
     "link": "https://minhasinscricoes.com.br/Evento/SerradosEucaliptos2025"
+  },
+  {
+    "nome": "TREINOS ORLA DE SANTOS-ILHA PORCHAT DAS 8 ÀS 10:00",
+    "categoria": "Treinos",
+    "cidade": "Santos",
+    "estado": "/ SP",
+    "data": "02/08/25",
+    "oficial": false,
+    "fotografos": 0,
+    "link": ""
+  },
+  {
+    "nome": "TREINOS SERRA DO JAPI JUNDIAÍ-DAS 7 ÀS 10:00",
+    "categoria": "Treinos",
+    "cidade": "Jundiaí",
+    "estado": "/ SP",
+    "data": "02/08/25",
+    "oficial": false,
+    "fotografos": 1,
+    "link": ""
   },
   {
     "nome": "SANTANDER TRACK&FIELD RUN SERIES JK 2",
@@ -16,7 +36,7 @@
     "estado": "/ SP",
     "data": "03/08/25",
     "oficial": false,
-    "fotografos": 16,
+    "fotografos": 15,
     "link": "https://www.tfsports.com.br/run-series/jk_ii_25/"
   },
   {
@@ -36,7 +56,7 @@
     "estado": "/ SP",
     "data": "03/08/25",
     "oficial": true,
-    "fotografos": 8,
+    "fotografos": 10,
     "link": "https://www.ticketsports.com.br"
   },
   {
@@ -66,7 +86,7 @@
     "estado": "/ SP",
     "data": "03/08/25",
     "oficial": false,
-    "fotografos": 0,
+    "fotografos": 3,
     "link": "https://www.inscrevafacil.com/#/evento/circuitodecorridasdosdistritos2025-padreanchieta"
   },
   {
@@ -76,7 +96,7 @@
     "estado": "/ SP",
     "data": "03/08/25",
     "oficial": false,
-    "fotografos": 2,
+    "fotografos": 3,
     "link": "https://www.ticketsports.com.br/e/3-corrida-em-homenagem-ao-atleta-birola-71903"
   },
   {
@@ -106,7 +126,7 @@
     "estado": "/ SP",
     "data": "03/08/25",
     "oficial": false,
-    "fotografos": 0,
+    "fotografos": 3,
     "link": "https://www.ecorun.com.br/sorocaba/"
   },
   {
@@ -156,7 +176,7 @@
     "estado": "/ SP",
     "data": "03/08/25",
     "oficial": true,
-    "fotografos": 3,
+    "fotografos": 5,
     "link": "https://www.ticketbr.com.br/main.ecm"
   },
   {
@@ -186,7 +206,7 @@
     "estado": "/ SP",
     "data": "03/08/25",
     "oficial": false,
-    "fotografos": 13,
+    "fotografos": 15,
     "link": "https://www.instagram.com/p/DLaJPtjsWDY/?igsh=MTU1cXVpbWQycG41dg=="
   },
   {
@@ -196,7 +216,7 @@
     "estado": "/ SP",
     "data": "03/08/25",
     "oficial": true,
-    "fotografos": 10,
+    "fotografos": 9,
     "link": "https://sportsp.com.br/2025/03/17/circuito-sportsp-runner-2025/"
   },
   {
@@ -216,7 +236,7 @@
     "estado": "/ SP",
     "data": "03/08/25",
     "oficial": false,
-    "fotografos": 15,
+    "fotografos": 20,
     "link": "https://minhasinscricoes.com.br/Evento/CorridaeCaminhadaCaixaResidencial"
   },
   {
@@ -226,7 +246,7 @@
     "estado": "/ SP",
     "data": "03/08/25",
     "oficial": false,
-    "fotografos": 8,
+    "fotografos": 7,
     "link": "https://www.inscrevafacil.com/?fbclid=IwZXh0bgNhZW0CMTEAAR6iwrHRwsnTQ0sp8-EzLWVyIjExJ2AAncx-vDbAoJOLxjlW72dkQ0KspKC2bw_aem_MiOU5D5HxAeeCXHX7cVOTg#/eve"
   },
   {
@@ -240,14 +260,74 @@
     "link": "https://share.google/OMvKe2QB6UgpyaIZc"
   },
   {
+    "nome": "TREINOS ORLA DE SANTOS-ILHA PORCHAT DAS 8 ÀS 10:00",
+    "categoria": "Treinos",
+    "cidade": "Santos",
+    "estado": "/ SP",
+    "data": "03/08/25",
+    "oficial": false,
+    "fotografos": 0,
+    "link": ""
+  },
+  {
+    "nome": "TREINOS SERRA DO JAPI JUNDIAÍ-DAS 7 ÀS 10:00",
+    "categoria": "Treinos",
+    "cidade": "Jundiaí",
+    "estado": "/ SP",
+    "data": "03/08/25",
+    "oficial": false,
+    "fotografos": 0,
+    "link": ""
+  },
+  {
+    "nome": "TREINOS ORLA DE SANTOS-ILHA PORCHAT DAS 8 ÀS 10:00",
+    "categoria": "Treinos",
+    "cidade": "Santos",
+    "estado": "/ SP",
+    "data": "08/08/25",
+    "oficial": false,
+    "fotografos": 0,
+    "link": ""
+  },
+  {
     "nome": "LIVE! RUN XP - CAMPINAS - NIGHT RUN",
     "categoria": "Corrida de Rua",
     "cidade": "Campinas",
     "estado": "/ SP",
     "data": "09/08/25",
     "oficial": true,
-    "fotografos": 33,
+    "fotografos": 41,
     "link": "https://liverun.com.br/etapa/live-run-campinas-i"
+  },
+  {
+    "nome": "TREINOS ORLA DE SANTOS-ILHA PORCHAT DAS 8 ÀS 10:00",
+    "categoria": "Treinos",
+    "cidade": "Santos",
+    "estado": "/ SP",
+    "data": "09/08/25",
+    "oficial": false,
+    "fotografos": 0,
+    "link": ""
+  },
+  {
+    "nome": "TREINOS SERRA DO JAPI JUNDIAÍ-DAS 7 ÀS 10:00",
+    "categoria": "Treinos",
+    "cidade": "Jundiaí",
+    "estado": "/ SP",
+    "data": "09/08/25",
+    "oficial": false,
+    "fotografos": 0,
+    "link": ""
+  },
+  {
+    "nome": "DESC PFB ETAPA 5",
+    "categoria": "MTB",
+    "cidade": "Jarinu",
+    "estado": "/ SP",
+    "data": "09/08/25",
+    "oficial": false,
+    "fotografos": 1,
+    "link": "https://www.instagram.com/reel/Cx78h89OrTX/?igsh=M3RzNGh1NDgxbHdk"
   },
   {
     "nome": "CAIEIRAS NIGHT RUN - 7ª EDIÇÃO",
@@ -256,7 +336,7 @@
     "estado": "/ SP",
     "data": "10/08/25",
     "oficial": false,
-    "fotografos": 2,
+    "fotografos": 3,
     "link": "https://inscricoes.corridaeaventura.com.br/event/corrida-pedestre/821-caieiras-night-run-7-edicao-2024"
   },
   {
@@ -266,7 +346,7 @@
     "estado": "/ SP",
     "data": "10/08/25",
     "oficial": false,
-    "fotografos": 10,
+    "fotografos": 11,
     "link": "https://www.tfsports.com.br/run-series/pompeia25/"
   },
   {
@@ -276,7 +356,7 @@
     "estado": "/ SP",
     "data": "10/08/25",
     "oficial": true,
-    "fotografos": 15,
+    "fotografos": 18,
     "link": "https://www.corridaderuasuperacao.com.br/evento/2a-corrida-aapa-paulinia/778"
   },
   {
@@ -296,7 +376,7 @@
     "estado": "/ SP",
     "data": "10/08/25",
     "oficial": true,
-    "fotografos": 12,
+    "fotografos": 14,
     "link": "https://www.cronocorridas.com.br/eventos"
   },
   {
@@ -306,7 +386,7 @@
     "estado": "/ SP",
     "data": "10/08/25",
     "oficial": false,
-    "fotografos": 29,
+    "fotografos": 32,
     "link": "https://www.newbalance.com.br/nb15ksp"
   },
   {
@@ -326,7 +406,7 @@
     "estado": "/ SP",
     "data": "10/08/25",
     "oficial": true,
-    "fotografos": 12,
+    "fotografos": 13,
     "link": "https://www.minhasinscricoes.com.br/Evento/CrossUrbanoCaixa"
   },
   {
@@ -336,7 +416,7 @@
     "estado": "/ SP",
     "data": "10/08/25",
     "oficial": false,
-    "fotografos": 4,
+    "fotografos": 3,
     "link": "https://minhasinscricoes.com.br/Evento/ChocoRun-2025"
   },
   {
@@ -346,7 +426,7 @@
     "estado": "/ SP",
     "data": "10/08/25",
     "oficial": true,
-    "fotografos": 3,
+    "fotografos": 4,
     "link": "https://www.instagram.com/p/DKHNLqZuKdj/"
   },
   {
@@ -360,12 +440,42 @@
     "link": "https://www.ravelisports.com.br/evento/2025/corrida-de-rua/1-desafio-corre-mais"
   },
   {
+    "nome": "TREINOS ORLA DE SANTOS-ILHA PORCHAT DAS 8 ÀS 10:00",
+    "categoria": "Treinos",
+    "cidade": "Santos",
+    "estado": "/ SP",
+    "data": "10/08/25",
+    "oficial": false,
+    "fotografos": 0,
+    "link": ""
+  },
+  {
+    "nome": "TREINOS SERRA DO JAPI JUNDIAÍ-DAS 7 ÀS 10:00",
+    "categoria": "Treinos",
+    "cidade": "Jundiaí",
+    "estado": "/ SP",
+    "data": "10/08/25",
+    "oficial": false,
+    "fotografos": 0,
+    "link": ""
+  },
+  {
     "nome": "TREINO CLUBE DE CORRIDA HYPC",
     "categoria": "Treino",
     "cidade": "São Paulo",
     "estado": "/ SP",
     "data": "12/08/25",
     "oficial": true,
+    "fotografos": 1,
+    "link": ""
+  },
+  {
+    "nome": "TREINOS ORLA DE SANTOS-ILHA PORCHAT DAS 8 ÀS 10:00",
+    "categoria": "Treinos",
+    "cidade": "Santos",
+    "estado": "/ SP",
+    "data": "15/08/25",
+    "oficial": false,
     "fotografos": 0,
     "link": ""
   },
@@ -376,7 +486,7 @@
     "estado": "/ SP",
     "data": "16/08/25",
     "oficial": true,
-    "fotografos": 3,
+    "fotografos": 4,
     "link": "https://tvcomrunning.com.br/1-anhumas-night-run"
   },
   {
@@ -388,115 +498,5 @@
     "oficial": false,
     "fotografos": 0,
     "link": "https://estounessa.com.br/#/home"
-  },
-  {
-    "nome": "CIRCUITO SUNSET RUN - ETAPA BOTUCATU",
-    "categoria": "Corrida de Rua",
-    "cidade": "Botucatu",
-    "estado": "/ SP",
-    "data": "16/08/25",
-    "oficial": false,
-    "fotografos": 3,
-    "link": "https://www.ticketsports.com.br/e/circuito-sunset-run---etapa-botucatu-72271"
-  },
-  {
-    "nome": "NATAN POR AÍ BRAVES KIDS - O DESAFIO DA LAMA!",
-    "categoria": "Corrida de Obstáculos",
-    "cidade": "São Bernardo do Campo",
-    "estado": "/ SP",
-    "data": "16/08/25",
-    "oficial": true,
-    "fotografos": 13,
-    "link": "https://www.gopanda.com.br/tickets/natan-por-ai-braves-kids-desafio-da-lama"
-  },
-  {
-    "nome": "SANTANDER TRACK&FIELD RUN SERIES CIDADE JARDIM 2",
-    "categoria": "Corrida de Rua",
-    "cidade": "São Paulo",
-    "estado": "/ SP",
-    "data": "17/08/25",
-    "oficial": false,
-    "fotografos": 12,
-    "link": "https://www.tfsports.com.br/run-series/cidadejardim_ii_25/"
-  },
-  {
-    "nome": "CORRIDA AFRODITE 2025-CANCELADA-82902",
-    "categoria": "Corrida em Esteira",
-    "cidade": "Santos",
-    "estado": "/ SP",
-    "data": "17/08/25",
-    "oficial": false,
-    "fotografos": 4,
-    "link": "https://www.dbueno.com.br/tipo_evento/corridas-de-rua/"
-  },
-  {
-    "nome": "1º PEDAL SOLIDÁRIO SÃO ROQUE",
-    "categoria": "Ciclismo",
-    "cidade": "Palmital",
-    "estado": "/ SP",
-    "data": "17/08/25",
-    "oficial": false,
-    "fotografos": 1,
-    "link": "https://www.facebook.com/share/p/187qLapuMK/"
-  },
-  {
-    "nome": "8ª CORRIDA PEDESTRE E CAMINHADA UNESP ASSIS",
-    "categoria": "Corrida de Rua",
-    "cidade": "Assis",
-    "estado": "/ SP",
-    "data": "17/08/25",
-    "oficial": true,
-    "fotografos": 10,
-    "link": "https://tvcomrunning.com.br/"
-  },
-  {
-    "nome": "TRIATHLON SANTA CECILIA - 3 ETAPA 2025",
-    "categoria": "Corrida de Rua",
-    "cidade": "Guarujá",
-    "estado": "/ SP",
-    "data": "17/08/25",
-    "oficial": false,
-    "fotografos": 2,
-    "link": "https://minhasinscricoes.com.br/Evento/TriathlonSantaCecilia-3Etapa2025"
-  },
-  {
-    "nome": "2º CORRIDA DE RUA CIDADE PAISAGEM",
-    "categoria": "Corrida de Rua",
-    "cidade": "Piquete",
-    "estado": "/ SP",
-    "data": "17/08/25",
-    "oficial": true,
-    "fotografos": 1,
-    "link": ""
-  },
-  {
-    "nome": "1ª CORRIDA OAB DE TAQUARITUBA",
-    "categoria": "Corrida de Rua",
-    "cidade": "Taquarituba",
-    "estado": "/ SP",
-    "data": "17/08/25",
-    "oficial": true,
-    "fotografos": 3,
-    "link": "https://www.instagram.com/gustavo_corretor_imoveis_itai?igsh=MWIxejY3N2x2NGI4Yw=="
-  },
-  {
-    "nome": "B.E. 7 RUN 7K",
-    "categoria": "Corrida de Rua",
-    "cidade": "Garça",
-    "estado": "/ SP",
-    "data": "17/08/25",
-    "oficial": true,
-    "fotografos": 5,
-    "link": "https://incentivoesporte.com.br/#/evento/b-e--7even-run-7k"
-  },
-  {
-    "nome": "2º CIRCUITO INTER REGIONAL DE MTB 3ª ETAPA AVANHANDAVA",
-    "categoria": "MTB",
-    "cidade": "Avanhandava",
-    "estado": "/ SP",
-    "data": "17/08/25",
-    "oficial": true,
-    "fotografos": 0,
-    "link": "https://dmeventosesportivos.com.br/"
   }
 ]
